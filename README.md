@@ -1,2 +1,2 @@
-# My sandbox while I get things sorted.
+# My sandbox while I get things sorted out.
 # Judgement/feedback welcome.
