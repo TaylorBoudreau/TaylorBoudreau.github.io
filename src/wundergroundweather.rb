@@ -1,7 +1,7 @@
 require 'httparty'
 require 'json'
 
-wunderground_key = 07cfb8918dc0fcd7
+wunderground_key = '07cfb8918dc0fcd7'
 state = 'OR'
 city = 'Portland'
 
